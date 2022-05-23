@@ -1,0 +1,7 @@
+mtcnn
+tensorflow
+keras
+pyaml
+streamlit
+keras-vggface
+tqdm

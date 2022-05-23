@@ -1,0 +1,8 @@
+[2022-05-21 09:32:18,934: INFO: 01_genarate_img_pkl]: >>>>>>>>> stage01 started
+[2022-05-21 09:32:18,938: INFO: all_utils]: directory artifacts\pickle_format_data is created
+[2022-05-21 09:32:19,073: INFO: 01_genarate_img_pkl]: Total actress are: 100
+[2022-05-21 09:32:19,074: INFO: 01_genarate_img_pkl]: Total actress images: 8664
+[2022-05-21 09:32:19,078: INFO: 01_genarate_img_pkl]: stage_01 completed!>>>>>
+[2022-05-21 19:28:06,423: INFO: 02_feature_extractor]: >>>>>>>>> stage02 started
+[2022-05-21 19:28:54,622: INFO: all_utils]: directory artifacts\extracted_features is created
+[2022-05-21 20:19:10,316: INFO: 02_feature_extractor]: stage_02 completed!>>>>>

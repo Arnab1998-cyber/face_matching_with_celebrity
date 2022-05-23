@@ -1,0 +1,10 @@
+tensorflow==2.8.0
+Keras-Applications
+mtcnn
+streamlit
+sklearn
+keras-vggface
+tqdm
+
+# local package
+-e .
