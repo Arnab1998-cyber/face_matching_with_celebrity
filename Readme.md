@@ -1,5 +1,5 @@
 # Face Matching with Bollywood Celebrity
 
-![Input page](input_bollywood_page.png)
+![Input page](bollywood_input_page.png)
 
-![Output_page](output_bollywood_page.png)
+![Output_page](bollywood_output_page.png)
